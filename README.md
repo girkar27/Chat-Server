@@ -2,7 +2,7 @@
 
 Welcome to ChatHub, a powerful distributed chat application designed to support unicast, multicast, and broadcast messaging. This README provides an overview of the architecture and setup instructions for ChatHub.
 
-Live Demo: https://vimeo.com/921546917?share=copy
+Live Demo: https://vimeo.com/92657346219?share=copy
 
 ### Architecture Overview
 ChatHub's architecture is meticulously crafted to ensure scalability, reliability, and real-time communication capabilities. Let's explore the key components and their roles:
